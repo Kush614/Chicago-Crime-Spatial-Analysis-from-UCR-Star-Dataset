@@ -103,9 +103,7 @@ Open the generated `output/chicago_crime_map.html` file in your web browser to i
 - Add additional interactive features to the visualization.
 - Explore alternative spatial analysis or visualization libraries.
 
-## Contact
+## Map Screenshot
+![image](https://github.com/user-attachments/assets/62899bfe-d466-4354-ac92-eef92b42d965)
 
-For any questions or issues regarding this project, please contact:
 
-[Your Name]  
-Email: [your.email@example.com]
