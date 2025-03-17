@@ -61,7 +61,9 @@ This project performs a spatial analysis of Chicago crime data by joining it wit
 
 ## Data Preparation
 -Download the Chicago Crimes dataset [https://star.cs.ucr.edu/?Chicago%20Crimes#center=41.8337,-87.7174&zoom=11].
--Download the ZIP Code Boundaries dataset in Chicago [https://star.cs.ucr.edu/?TIGER2018/ZCTA5#center=41.8337,-87.7174&zoom=11]
+
+-Download the ZIP Code Boundaries dataset in Chicago [https://star.cs.ucr.edu/?TIGER2018/ZCTA5#center=41.8337,-87.7174&zoom=11].
+
 - Place the `Chicago_Crimes.csv` file inside the `data/` directory. 
 - Download the Chicago ZIP Code Boundaries shapefile and place all related files (e.g., `.shp`, `.dbf`, `.shx`) inside the `data/zip_data/` folder.
 
